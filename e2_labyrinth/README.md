@@ -190,13 +190,3 @@ java Main
 
 * Nutze die mitgelieferte `main()`-Methode und `StudentResult` zum lokalen Testen; Artemis verwendet eigene `Result`-Subklassen — verwende daher das übergebene `Result`-Objekt.
 * Teste verschiedene Größen und Formen (inkl. nicht-quadratischer Labyrinthe), bevor du abgibst.
-
----
-
-## Autor / Quelle
-
-Aufgabenstellung: Übung aus dem Modul **Datenstrukturen** — *Labyrinth / Rechte-Flosse-Regel*. Beschreibung und Beispiele stammen aus dem Aufgaben-Template der Lehrveranstaltung.
-
----
-
-**Anleitung:** Kopiere den gesamten Inhalt dieses Dokuments in eine Datei `README.md` in deinem Übungs-Repository. Wenn du willst, erstelle ich dir noch eine sehr kurze `README`-Variante (One-pager) oder passe das Format für ein bestimmtes Repo-Layout an.
