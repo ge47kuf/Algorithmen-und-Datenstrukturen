@@ -152,20 +152,3 @@ public class BinSea {
 ## Kompilieren / Ausführen (Hinweis)
 
 * Benutze die mitgelieferten Template-Dateien, Kompilieren/Run-Beispiele siehe Projekt-Template. Achte darauf, dass Tests/Artemis keine zusätzlichen Ausgaben erwarten — vermeide `System.out` in den zu bewertenden Methoden.
-
----
-
-## Dokumentation & Abgabe
-
-* Lege diese Datei (`README.md`) ins Root-Verzeichnis des Aufgaben-Repos.
-* Die Implementierung darf die vorgegebenen Signaturen und das `Result`-Interface nicht verändern.
-* Verwende zum lokalen Testen die mitgelieferten `StudentResult`-Hilfsklassen, aber achte darauf, bei Abgaben das beim Test übergebene `Result`-Objekt zu verwenden.
-
----
-
-## Autor / Quelle
-
-Aufgabenstellung: Übung aus dem Modul **Datenstrukturen** (Thema: Binäre Suche — Pinguinsupermarkt). Beschreibung und Beispiele stammen aus dem offiziellen Aufgaben-Template der Lehrveranstaltung.
-
-```
-```
