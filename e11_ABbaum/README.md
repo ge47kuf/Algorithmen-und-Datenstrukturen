@@ -95,6 +95,9 @@ Implementiere in den vorgegebenen Klassen mindestens folgende Methoden (Signatur
 
 Das Template enthält ein illustratives Beispiel für einen **(2,4)-Baum** mit folgender Einfüge-Reihenfolge:
 
+<details>
+<summary> beispiel </summary>
+  
 ```
 Die Einfügereihenfolge in den (2,4)-Baum war dabei: 109, 23, 49, 180, 120, 163, 172, 130, 95, 156, 99, 39, 178, 197, 71, 194, 118, 88
 Die Löschreihenfolge darauf war: 95, 194, 23, 118, 109, 178, 71, 88, 197, 156, 99, 163, 49, 172, 120, 130, 180, 39
@@ -1430,6 +1433,7 @@ node [shape=record];
 }
 
 ```
+</details>
 
 Für diese Sequenz sind im Aufgabenblatt Graphviz-DOT-Snapshots nach vielen Einfügungen/Löschungen gezeigt. Verwende deine `dot()`-Methode, um denselben Ablauf zur Visualisierung zu erzeugen und die Struktur zu prüfen (Graphviz-Output im Template dient als Referenz, nicht als verpflichtende Textsequenz).
 
