@@ -1,4 +1,4 @@
-# Binäre Suche — Pinguinsupermarkt
+# Binäre Suche
 
 ## Kurzbeschreibung
 Implementiere in Java mehrere Varianten der **binären Suche** zur Bestimmung von Indexen oder Indexbereichen in sortierten Arrays. Zusätzlich muss jede geprüfte Mitte (Schritt) an ein gegebenes `Result`-Interface geloggt werden. Die Aufgabe ist in drei aufbauende Teile unterteilt (ein Wert, eine Grenze, ein Intervall).
@@ -54,7 +54,7 @@ public class BinSea {
     public Interval search(int[] sortedData, NonEmptyInterval valueRange,
                            Result resultLower, Result resultHigher) { ... }
 }
-````
+```
 
 ---
 
