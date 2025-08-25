@@ -1,4 +1,4 @@
-package gad.binarysearch;
+package java.gad.binarysearch;
 
 import java.util.Objects;
 

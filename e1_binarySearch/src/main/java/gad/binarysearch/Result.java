@@ -1,4 +1,4 @@
-package gad.binarysearch;
+package java.gad.binarysearch;
 
 public interface Result {
 
