@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BinSeaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-24T18:31:09" hostname="UNINOTEBOOK" time="0.025">
+<testsuite name="BinSeaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-30T18:27:00" hostname="admin" time="0.013">
   <properties/>
-  <testcase name="testBinarySearch()" classname="BinSeaTest" time="0.025"/>
+  <testcase name="testBinarySearch()" classname="BinSeaTest" time="0.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
