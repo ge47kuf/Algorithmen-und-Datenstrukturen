@@ -1,6 +1,6 @@
-package java.gad.binarysearch;
+package gad.binarysearch;
 
-import java.gad.binarysearch.Interval.NonEmptyInterval;
+import gad.binarysearch.Interval.NonEmptyInterval;
 
 
 public final class BinSea {
